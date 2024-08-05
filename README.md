@@ -1,4 +1,7 @@
 Портфолио с фильтрами
+
+[![Build status](https://ci.appveyor.com/api/projects/status/41q8f8w869nfnmb9?svg=true)](https://ci.appveyor.com/project/ValentinSilivankov/ra-filter)
+
 ===
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
