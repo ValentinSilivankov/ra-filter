@@ -1,5 +1,3 @@
-# ra-events-state-portfolio
-
 Портфолио с фильтрами
 ===
 
@@ -92,5 +90,3 @@
   category: "Flayers"
 }]
 ```
-
----
