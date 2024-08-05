@@ -41,10 +41,7 @@
   "description": "Портфолио с фильтрами\r ===",
   "main": "index.js",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ValentinSilivankov/ra-filter.git"
-  },
+  "repository": "git+ssh://git@github.com/ValentinSilivankov/ra-filter.git",
   "author": "LiTiN",
   "license": "ISC",
   "bugs": {
